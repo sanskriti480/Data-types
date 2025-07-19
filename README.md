@@ -13,6 +13,7 @@ and how much space it takes in memory using the sizeof() function.
 4. char holds one single character like 'A' or 'z', and it takes 1 byte.
 5. string stores a whole word or sentence, and the memory it uses depends on how long the text is.
 6. bool is for true/false values (or 1 and 0) and uses 1 byte.
+
 So, step by step, the program takes input for each type and helps us see how C++ handles them and how much memory each one needs. It’s a simple way to understand the basics of storing different kinds of data.
 
 Conclusion - I learned various data types and also learned how to find out the size of each data type.
