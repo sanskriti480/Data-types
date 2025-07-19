@@ -35,7 +35,7 @@ int main(){
     cout << "String is:" << e << " and size is:" << sizeof(e) << "bytes" <<endl;
     
     bool f;
-    cout << "Enter TRUE/FALSE:";
+    cout << "Enter 1/0:";
     cin >> f;
     cout << "Input is:" << f << " and size is:" << sizeof(f) << "bytes" <<endl;
     
