@@ -83,16 +83,27 @@ By observing the output of this program, I learned how different types consume m
 ## Sample output
 
 Enter a Integer:4
+
 The integer is:4 and size is:4bytes
+
 Enter a Decimal number for Float:4.3
+
 Number is:4.3 and size is:4bytes
+
 Enter a Character:s
+
 Character is:s and size is:1bytes
+
 Enter a Decimal Number for Double:4.8987
+
 Number is:4.8987 and size is:8bytes
+
 Enter a String:hello
+
 String is:hello and size is:32bytes
+
 Enter 1/0:1
+
 Input is:1 and size is:1bytes
 
 ---
