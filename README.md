@@ -5,7 +5,7 @@ To study and implement the use of various **C++ data types** and understand how 
 
 ---
 
-## 🛠️ Apparatus
+## 🛠️ Tools used
 - Visual Studio Code (VS Code) / Programiz Online C++ compiler
 
 ---
@@ -77,6 +77,23 @@ The program designed for this experiment allows users to input values of differe
   - Example: `bool isOnline = true;`
 
 By observing the output of this program, I learned how different types consume memory differently and how that affects storage and performance.
+
+---
+
+## Sample output
+
+Enter a Integer:4
+The integer is:4 and size is:4bytes
+Enter a Decimal number for Float:4.3
+Number is:4.3 and size is:4bytes
+Enter a Character:s
+Character is:s and size is:1bytes
+Enter a Decimal Number for Double:4.8987
+Number is:4.8987 and size is:8bytes
+Enter a String:hello
+String is:hello and size is:32bytes
+Enter 1/0:1
+Input is:1 and size is:1bytes
 
 ---
 
