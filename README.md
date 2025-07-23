@@ -1,18 +1,18 @@
 # Experiment 2: Data Types in C++
 
-## 🧪 Aim
+## Aim
 To study and implement the use of various **C++ data types** and understand how memory is allocated to each type using the `sizeof()` function.
 
 ---
 
-## 🛠️ Tools used
+## Tools used
 - Visual Studio Code (VS Code) / Programiz Online C++ compiler
 
 ---
 
-## 📚 Theory
+## Theory
 
-## 💡 Why C++ is More Efficient Than C
+## Why C++ is More Efficient Than C
 
 Although C and C++ share a similar syntax, **C++ is more advanced and efficient for modern development** due to the following features:
 
@@ -41,7 +41,7 @@ In C++, **data types** are essential building blocks of any program. They define
 
 The program designed for this experiment allows users to input values of different data types. After receiving each input, it uses the `sizeof()` function to print the memory allocated for that specific type. This offers a hands-on way to observe how C++ handles each data type internally.
 
-### 🔢 Common Data Types and Their Memory Usage:
+### Common Data Types and Their Memory Usage:
 
 - **`int`**  
   Used to store **whole numbers** such as 5, -23, or 1000.  
@@ -108,7 +108,7 @@ Input is:1 and size is:1bytes
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 Through this experiment, we gained a practical understanding of:
 
